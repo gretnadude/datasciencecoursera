@@ -1,1 +1,1 @@
-Hello! This project is for a Coursera MOOC class on data science. I hope this works!
+This is a readme file.
